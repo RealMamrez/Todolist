@@ -20,4 +20,4 @@ You can add, complete and delete tasks in it.
 
 > By **clicking on the empty box** next to each task, you can cross that task 🔰
 
-> You can **delete that task** by **clicking on the trashcan** next to each task
+> You can **delete that task** by **clicking on the trashcan** next to each task ❌
